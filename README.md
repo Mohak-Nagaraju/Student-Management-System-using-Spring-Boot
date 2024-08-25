@@ -21,8 +21,8 @@ src
 │                   ├── student
 │                   │   ├── Student.java          # Entity class for Student
 │                   │   ├── StudentConfig.java    # Pre-loads some initial data
-│                   │   ├── StudentController.java# REST controller for handling HTTP requests
-│                   │   ├── StudentRepository.java# Interface for database operations
+│                   │   ├── StudentController.java # REST controller for handling HTTP requests
+│                   │   ├── StudentRepository.java # Interface for database operations
 │                   │   └── StudentService.java   # Business logic for managing students
 │                   └── DemoApplication.java      # Main class for running the Spring Boot application
 ```
